@@ -1,0 +1,54 @@
+.menu-borda {
+    border-bottom: 1px solid #0ff;
+}
+
+.sombra-carrosel {
+    box-shadow: 0px 10px 50px #000;
+}
+
+/* estilos.css */
+
+.carousel-inner img {
+    max-width: 100%; /* Mantenha a largura em 100% */
+    max-height: 600px; /* Defina a altura máxima desejada, por exemplo, 200px */
+    width: auto; /* Isso permite que a largura seja ajustada automaticamente para manter a proporção da imagem */
+    margin: 0 auto; /* Centralize horizontalmente as imagens */
+}
+/* estilos.css */
+
+h1 {
+    font-size: 90px; /* Tamanho da fonte grande */
+    text-align: center; /* Centralize o texto horizontalmente */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Adicione um efeito de sombra ao texto */
+}
+footer#rodape{
+    font-size: 20px; /* Tamanho da fonte grande */
+    text-align: center; /* Centralize o texto horizontalmente */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Adicione um efeito de sombra ao texto */ 
+}
+h2{
+    font-size: 50px; /* Tamanho da fonte grande */
+    text-align: center; /* Centralize o texto horizontalmente */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Adicione um efeito de sombra ao texto */
+} 
+
+/* estilos.css */
+
+.card {
+    background-color: rgb(216, 207, 207); /* Altere para a cor de fundo desejada */
+}
+/* estilos.css */
+
+.card-text {
+    font-size: 18px; /* Ajuste o tamanho da fonte conforme desejado */
+}
+/* estilos.css */
+
+.card-text {
+    font-family: 'Arial', sans-serif; /* Altere a fonte conforme desejado */
+    color: rgb(10, 3, 3); /* Altere a cor do texto conforme desejado */
+    line-height: 1.6; /* Espaçamento entre linhas para melhor legibilidade */
+    text-align: justify; /* Alinhe o texto para justificado (opcional) */
+}
+
+
