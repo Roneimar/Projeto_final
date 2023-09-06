@@ -50,5 +50,22 @@ h2{
     line-height: 1.6; /* Espaçamento entre linhas para melhor legibilidade */
     text-align: justify; /* Alinhe o texto para justificado (opcional) */
 }
+h3{
+    text-align: justify; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+h4{
+    text-align: justify;
+}
+
+#cadastro {
+    display: block;
+    margin: 0 auto;
+}
+
+#apresentacao {
+    max-width: 100%;
+    height: auto;
+}
 
 
